@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-09-06 10:13+CST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: ./packets/arp.py:26
+msgid "Arpv6 not implemented"
+msgstr ""
+
+#: ./packets/base.py:7
+msgid "packet class must provide 'fields_desc' field"
+msgstr ""
+
+#: ./packets/base.py:17
+msgid "class %s doesn't have field '%s'"
+msgstr ""
+
+#: ./packets/base.py:19
+msgid "field '%s' in class %s doesn't have right type"
+msgstr ""
+
+#: ./packets/base.py:23
+msgid "should not use _fields in %s, the name is reserved"
+msgstr ""
+
+#: ./packets/base.py:38
+msgid "field '%s' not set value and no default value for it"
+msgstr ""
+
+#: ./packets/fields.py:29
+msgid "unsupported integer length: %d"
+msgstr ""
+
+#: ./packets/fields.py:84 ./packets/fields.py:89
+msgid "not bytes value: "
+msgstr ""
+
+#: ./tools/base.py:7
+msgid "package send tool"
+msgstr ""
+
+#: ./tools/base.py:38
+msgid "how many data send"
+msgstr ""
+
+#: ./tools/base.py:39
+msgid "packages send per soncond"
+msgstr ""
+
+#: ./tools/base.py:40
+msgid "use how many threads to send data"
+msgstr ""
+
+#: ./tools/base.py:49
+msgid "speed: "
+msgstr ""
+
+#: ./tools/traceroute.py:6
+msgid "traceroute tool"
+msgstr ""
+
+#: ./tools/udpreceiver.py:11
+msgid "receive udp message"
+msgstr ""
+
+#: ./tools/udpreceiver.py:15
+msgid "bind ip"
+msgstr ""
+
+#: ./tools/udpreceiver.py:16
+msgid "bind port"
+msgstr ""
+
+#: ./tools/udpreceiver.py:17
+msgid "quiet mode, don't print message received"
+msgstr ""
+
+#: ./tools/udpsender.py:8
+msgid "dest host  send to"
+msgstr ""
+
+#: ./tools/udpsender.py:9
+msgid "dest port send to"
+msgstr ""
+
+#: ./tools/udpsender.py:10
+msgid "the data you want sent"
+msgstr ""
+

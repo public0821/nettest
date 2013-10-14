@@ -1,0 +1,3 @@
+class NettestError(Exception):
+    pass
+
